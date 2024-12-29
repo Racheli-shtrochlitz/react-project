@@ -18,8 +18,7 @@ function App() {
           Learn React
         </a>
       </header>
-      <p>i try to create a new commit</p>
-      <p>aaaaaaaaaaaaaaaabb</p>
+      <p> i changed to noa branch</p>
     </div>
   );
 }
